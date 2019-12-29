@@ -14,6 +14,10 @@ Run the server:
 
 Yeah, that simple! 
 
+## One more thing. 
+
+FastAPI has inbuilt APIDocs, a reload option thanks to Uvicorn and is epic fast! I think this is the future of REST APIs. 
+
 ✌🏾
 
 Made In 🇺🇬
